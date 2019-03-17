@@ -18,6 +18,7 @@ Cela crée un nouveau sous-répertoire nommé .git qui contient tous les fichier
 Si vous souhaitez commencer à suivre les versions des fichiers existants (contrairement à un répertoire vide), vous devriez probablement commencer par indexer ces fichiers (git add) et faire une validation initiale (git commit) :
 
 ```
+git add --all
 git add *.c
 git add README
 git commit –m 'version initiale du projet'
