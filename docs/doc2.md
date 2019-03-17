@@ -11,6 +11,7 @@ Si vous commencez à suivre un projet existant dans Git, vous n'avez qu'à vous 
 
 ```
 git init
+echo "# mon-repository" >> README.md
 ```
 
 Cela crée un nouveau sous-répertoire nommé .git qui contient tous les fichiers nécessaires au dépôt (un squelette de dépôt Git). Pour l'instant, aucun fichier n'est encore versionné.
