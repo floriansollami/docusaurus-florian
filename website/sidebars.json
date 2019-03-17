@@ -1,0 +1,28 @@
+{
+  "docs": {
+    "MARKDOWN": [],
+    "JEST": ["doc1"],
+    "CONCOURSE CI": [],
+    "GIT": ["doc2"],
+    "JAVASCRIPT": [],
+    "MONGODB": [],
+    "GRAPHQL": [],
+    "ZENDESK API": [],
+    "SLACK API": [],
+    "BASH": [],
+    "AMAZON SQS/SNS": [],
+    "AMAZON CloudFront": [],
+    "AMAZON S3": [],
+    "AMAZON EC2": [],
+    "gRpc": [],
+    "HEROKU": ["doc3"],
+    "DOCKER": [],
+    "KUBERNETES": [],
+    "ARCHITECTURE MICROSERVICES": [],
+    "POSTMAN": [],
+    "CURL": []
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
